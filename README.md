@@ -13,3 +13,19 @@ This project is intended for building a streamlined workflow for assignment subm
 - Users can upload their assignments.
 - Admins can view assignments and accept or reject them.
 - Basic error handling and validation for user inputs.
+
+## Requirements
+
+To run this project, you need to have the following installed:
+
+- Node.js (v16+)
+- MongoDB Atlas or a local MongoDB instance
+- Postman (or any other API testing tool)
+
+## Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/yourusername/assignment-submission-portal.git
+   cd assignment-submission-portal
